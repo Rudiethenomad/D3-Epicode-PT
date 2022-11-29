@@ -4,16 +4,39 @@ body{
 header{
     background-color: black;
     height: 60px;
-    padding: .5rem 2rem;
+  
 ;
 }
 .logo{
+    padding-left: 25px;
     height:40px;
     width:100px;
 }
 .nav_bar{
-    display:inline;
+    padding-left: 25px;
+    display:block;
     background-color: rgb(54, 71, 89);
      color: white;
-     margin-right: 16px;
+    
+     
+    
+}
+header span{
+    margin-right: 1rem;
+    font-weight: 400;
+}
+.gift_cards{
+    padding: .5rem;
+    text-align: center;
+    background-color: rgb(245, 102, 0);
+    color: white;
+    height: 18px;
+    margin-bottom: 32px;
+    padding: 8px;
+    width: 1417px;
+    margin-bottom: 2rem;
+    margin-left: 32px;
+    margin-top: 32px;
+
+
 }
