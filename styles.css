@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: black;
+    height: 60px;
+    padding: .5rem 2rem;
+;
+}
+.logo{
+    height:40px;
+    width:100px;
+}
+.nav_bar{
+    display:inline;
+    background-color: rgb(54, 71, 89);
+     color: white;
+     margin-right: 16px;
+}
