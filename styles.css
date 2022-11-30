@@ -43,23 +43,25 @@ header span{
     height: 18px;
     margin-bottom: 32px;
     padding: 8px;
-    width: 1417px;
+    width: 100%;
     margin-bottom: 2rem;
     margin-left: 32px;
+    margin-right: 32px;
     margin-top: 32px;
 
 
 }
 #holiday_banner{
-    background-image: url("bg-image.png");
-    width: 100%;
+   background-image: url("bg-image.png");
+  
     height: 100px;
     text-align: center;
     color:white;
-    padding: 3rem 0;
+    padding: 3rem 3rem;
     margin-bottom: 2rem;
     margin-left: 32px;
-    width: 1427px;
+    margin-right: 32px;
+    width: 1841px;
 }
 .photogallery{
     background-color: white;
@@ -70,8 +72,9 @@ header span{
     padding-right: 16px;
     padding-top: 16px;
     text-align: left;
-    width: 1393px;
+    width: 100%;
     margin-left: 32px;
+    margin-right:1rem;
 
 }
 .title{
@@ -148,8 +151,9 @@ width: 1405px;
 
 }
 .tec_photo{
+    background-color: transparent;
     text-align: center;
-    background-color: white;
+
     margin-right:32px;
     margin-left:32px;
     margin-top:40px;
@@ -179,7 +183,7 @@ width: 1405px;
 .autio_photo{
     background-color:#eaeded;
     text-align: center;
-    background-color: white;
+    background-color: transparent;
     margin-right:32px;
     margin-left:32px;
     margin-top:40px;
@@ -217,7 +221,7 @@ width: 1405px;
     padding-right: 16px;
     padding-top: 16px;
     text-align: center;
-    width: 1465px; 
+    width: 100%; 
 
 
 }
@@ -229,7 +233,7 @@ width: 1405px;
     padding-right: 64px;
     padding-top: 64px;
     text-align: center;
-    width: 1369px;
+    width: 100%;
     }
 .footer_logo{
     height: 60px;
