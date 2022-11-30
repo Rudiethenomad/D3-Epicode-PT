@@ -36,18 +36,20 @@ header span{
     font-weight: 400;
 }
 .gift_cards{
+    
     padding: .5rem;
     text-align: center;
     background-color: rgb(245, 102, 0);
     color: white;
     height: 18px;
-    margin-bottom: 32px;
-    padding: 8px;
-    width: 100%;
-    margin-bottom: 2rem;
+   
+   
+    width: 94.8vw;
+   margin-bottom: 2rem;
     margin-left: 32px;
     margin-right: 32px;
     margin-top: 32px;
+    
 
 
 }
@@ -57,22 +59,28 @@ header span{
     height: 100px;
     text-align: center;
     color:white;
-    padding: 3rem 3rem;
+    padding: 3rem 0rem;
     margin-bottom: 2rem;
     margin-left: 32px;
     margin-right: 32px;
-    width: 1841px;
+    width: 95.5vw;
+}
+h1{
+    padding-right: 500px;
+}
+h3{
+    padding-right: 500px;
 }
 .photogallery{
     background-color: white;
-    width:100%;
+    width: 93vw;
     height: 455px;
     padding: 1rem 1rem 0 1.5rem;
-    padding-left: 24px;
+    padding-left: 21px;
     padding-right: 16px;
     padding-top: 16px;
     text-align: left;
-    width: 100%;
+   
     margin-left: 32px;
     margin-right:1rem;
 
@@ -89,7 +97,7 @@ header span{
 
 height: 455px;
 text-align: center;
-width: 1405px;
+width: 92vw;
 }
 .img_1{
     border-bottom-left-radius: 20px;
